@@ -27,6 +27,7 @@ Captura 2: Pendiente de subir
 
 ## Ejemplo de Código
 
+```javascript
 // Función para cargar una vista en la página
 function loadView(viewName) {
     fetch(`./js/components/${viewName}.js`)
@@ -56,3 +57,4 @@ window.addEventListener('hashchange', handleRouteChange);
 
 // Cargar la vista inicial
 handleRouteChange();
+```
