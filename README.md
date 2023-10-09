@@ -1,4 +1,4 @@
-# Nombre del Proyecto
+# Simple SPA JavaScript
 > Una aplicación web de página única (SPA) simple construida en JavaScript.
 
 ## Descripción
