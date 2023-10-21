@@ -59,6 +59,6 @@ window.addEventListener('hashchange', handleRouteChange);
 handleRouteChange();
 ```
 
-## No olvides dar las gracias
+## Agradecimientos
 
 Hecho con ❤️ por Matias Ignacio - https://github.com/Matignaciom
